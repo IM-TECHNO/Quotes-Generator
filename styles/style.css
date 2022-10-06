@@ -9,7 +9,20 @@ body {
     justify-content: center;
     align-items: center;
     background-color: rgb(15, 17, 19);
-    height: 100vh;    
+    height: 100vh;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    font-family: "Open Sans", sans-serif;
+    background: #222;
+    background-image: url("https://source.unsplash.com/1600x900/?landscape");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: 50% 50%;
+    overflow-y: scroll;
+	
 }
 .container {
 	width: 550px;
